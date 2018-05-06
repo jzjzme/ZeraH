@@ -1,6 +1,7 @@
 #server.py
 
 #da real backend
+#satori channels needed
 
 
 import dbserver.py
