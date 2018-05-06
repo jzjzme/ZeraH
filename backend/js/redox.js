@@ -16,7 +16,7 @@ var db = lowdb('db.json');
 db.defaults({ 
 	appointments: [{
 		"Meta": {
-			"DataModel": "Scheduling",
+			"DataModel": "Info",
 			"EventType": "New",
 			"EventDateTime": "2018-01-09T05:35:18.024Z",
 			"Test": true,
